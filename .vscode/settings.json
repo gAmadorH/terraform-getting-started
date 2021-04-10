@@ -10,5 +10,10 @@
   "cSpell.enableFiletypes": [
     "terraform"
   ],
-  "cSpell.words": []
+  "cSpell.words": [
+    "amador",
+    "bellavance",
+    "pluralsight",
+    "tfenv"
+  ]
 }
