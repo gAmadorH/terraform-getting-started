@@ -1,8 +1,10 @@
 # terraform-getting-started
 
+[![Course](https://img.shields.io/badge/pluralsight-Terraform_Getting_started-blueviolet.svg)](https://www.pluralsight.com/courses/getting-started-terraform)
 [![License](https://img.shields.io/github/license/gAmadorH/terraform-getting-started.svg?color=blue)](https://github.com/gAmadorH/terraform-getting-started/blob/main/LICENSE)
 
-Terraform - getting started course in pluralsight by Ned Bellavance.
+_Terraform - getting started_ course in pluralsight by Ned Bellavance.  
+Origin course repository: [https://github.com/ned1313/Getting-Started-Terraform](https://github.com/ned1313/Getting-Started-Terraform)
 
 ## Requirements
 
